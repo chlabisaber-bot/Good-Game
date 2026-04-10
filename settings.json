@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Sobg.aternos.me",
+    "ip": "romg.aternos.me:18621",
     "port": 27586,
     "version": "",
     "try-creative": false
